@@ -1,3 +1,7 @@
-# Svelte Background Generator
+# WIP: Svelte Media Session
 
-A tool to create and preview a background blur interactively then export it to CSS (using `backgdrop-filter`) when you're done.
+An example of how to use the Media Session API
+
+Refs:
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Media_Session_API
